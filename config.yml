@@ -1,6 +1,6 @@
 baseURL: "https://itobag.netlify.app/"
 languageCode: "en-us"
-title: "Porte-folio"
+title: "mon porte-folio"
 
 module:
   imports:
