@@ -1,6 +1,6 @@
 baseURL: "https://itobag.netlify.app/"
 languageCode: "en-us"
-title: "Que des numéros 10 dans ma team"
+title: "Porte-folio"
 
 module:
   imports:
