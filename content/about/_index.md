@@ -1,10 +1,9 @@
 ---
-title: A propos de moi ...
+title: Qui suis-je ?
 description: ''
 featured_image: "/images/zorro-one-piece.jpg"
 
 ---
-## Qui suis-je ?
 
 Mon prénom est Rosalie, j'ai 18 ans.
 
