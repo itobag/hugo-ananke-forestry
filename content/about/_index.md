@@ -1,11 +1,14 @@
 ---
-title: About
+title: Rosalie
 description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
   the author of this book found, in an obscure nook of one of the towers, the following
   word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ''
+featured_image: "/images/zorro-one-piece.jpg"
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+## Qui suis-je ?
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Mon prénom est Rosalie, j'ai 18 ans. 
+
+J'ai obtenu mon baccalauréat l'année dernière en section Littéraire. Par la suite, j'ai été recruté dans un restaurant où je travaille comme serveuse depuis 2 mois.   
+J'adore les dessins animées depuis toute petite. J'adore les dessins aussi, les mangas et les bande dessinées sont un de mes passe temps, je m'intéresse beaucoup au visuel des choses. Jusque là, la plus grande œuvre à laquelle je me consacre est One Piece. 
