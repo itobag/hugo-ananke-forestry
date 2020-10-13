@@ -1,5 +1,5 @@
 ---
-title: Rosalie
+title: A propos de moi ...
 description: ''
 featured_image: "/images/zorro-one-piece.jpg"
 
